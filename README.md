@@ -12,7 +12,7 @@ Exploratory data analysis on a combined red & white wine dataset, investigating 
 
 ## Dataset
 
-`data/wine_data.csv` — combined red and white wine samples with the following fields:
+[`wine_data.csv`](data/wine_data.csv) — combined red and white wine samples with the following fields:
 
 `fixed acidity`, `volatile acidity`, `citric acid`, `residual sugar`, `chlorides`, `free sulfur dioxide`, `total sulfur dioxide`, `density`, `pH`, `sulphates`, `alcohol`, `quality`, `color`
 
