@@ -18,7 +18,7 @@ Exploratory data analysis on a combined red & white wine dataset, investigating 
 
 ## Approach
 
-Full analysis is in [`wine_quality_analysis.ipynb`](python/wine_quality_analysis.ipynb), using **pandas** for data handling, and **seaborn** / **matplotlib** for visualization.
+Full analysis is in [`wine_quality_analysis.ipynb`](python/wine_project.ipynb), using **pandas** for data handling, and **seaborn** / **matplotlib** for visualization.
 
 - Computed correlations between all chemical properties and `quality`, isolating the ranked correlations against quality specifically (rather than reading a full 12x12 heatmap) to directly answer which features matter most
 - Compared quality distributions between red and white wine
