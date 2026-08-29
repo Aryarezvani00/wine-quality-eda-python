@@ -39,8 +39,3 @@ Overall, alcohol content, density, and volatile acidity stand out as the most us
 ## Tools
 
 `Python` · `pandas` · `seaborn` · `matplotlib` · `Jupyter Notebook`
-
-## What I'd Explore Next
-
-- Build a simple regression or classification model to quantify how well these chemical properties predict quality, rather than relying on correlation alone
-- Investigate interaction effects (e.g., does alcohol's effect on quality change at different acidity levels?)
